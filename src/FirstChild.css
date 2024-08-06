@@ -1,0 +1,8 @@
+.button{
+    position: fixed;
+    display: flex;
+    top: 10px; 
+    left: 50%;
+ align-items: center;
+ justify-content: center;
+}
